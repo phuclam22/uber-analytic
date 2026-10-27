@@ -39,7 +39,7 @@ This data pipeline and dashboard provide direct value to enterprise operations a
 | `LICENSE` | Text | Open-source license for this repository. |
 
 ## Executive Dashboard
-**[[Insert your Data Studio Dashboard Link Here]](https://datastudio.google.com/reporting/b2319e4d-a4e6-4003-93c1-f64c844480e0)**
+**[[Data Studio Dashboard Link Here]](https://datastudio.google.com/reporting/b2319e4d-a4e6-4003-93c1-f64c844480e0)**
 
 The Data Studio dashboard features:
 * **Dynamic Filter Controls:** Interactive slicing by Vendor, Payment Type, Rate Code, and Trip Distance.
